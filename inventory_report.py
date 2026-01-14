@@ -60,7 +60,7 @@ SMTP_PORT = 587
 SMTP_USER = "madhu.l@hopzy.in"
 SMTP_PASSWORD = "JqkGLkfkTf0n"
 SENDER_EMAIL = SMTP_USER
-MANAGER_EMAIL = ("madhu.l@hopzy.in","avinash.sk@hopzy.in","siddarth.shetty@hopzy.in", "tejus.a@hopzy.in","bandari.gk@hopzy.in",)
+MANAGER_EMAIL = ("madhu.l@hopzy.in","avinash.sk@hopzy.in", "tejus.a@hopzy.in","bandari.gk@hopzy.in",)
 
 
 # =============================== BACKOFF HELPERS ==========================
@@ -821,6 +821,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
