@@ -2,7 +2,7 @@ name: Bitla Daily Inventory Report
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # 09:30 AM IST
+    - cron: "0 1 * * *"   # 09:30 AM IST
   workflow_dispatch:
 
 jobs:
